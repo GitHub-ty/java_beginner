@@ -2,8 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/stu2023_10_12_01/Demo02Variable.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/stu2023_10_12_01/helloWorld.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_01/Demo02Variable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_01/Demo03VariableNotice.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_01/HelloWorld.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_02/Demo01DataType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_02/Demo02DataType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_02/Demo03DataType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_02/Demo04DataType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_02/Demo05Operator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_02/Demo06OPlus.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stuDay_02/Demo07Operator.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
